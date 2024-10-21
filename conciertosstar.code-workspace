@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Quiet Light",
+		"workbench.preferredLightColorTheme": "Default Light Modern"
+	}
+}
